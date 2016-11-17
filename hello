@@ -1,1 +1,18 @@
+<html> 
+<title> 
+My First website
+</title>
+<body> 
+<h1> This my first github page</h1>
+
+</body>
+<style> 
+body {
+background.color:pink;
+color:ffc0cb;
+text.align:center;
+}
+</style>
+
+</html>
 
